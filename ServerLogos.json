@@ -2,7 +2,7 @@
   "Images": [
     {
       "URL": "http://www.image-heberg.fr/files/17873304461068732270.png",
-      "Pos": "TopLeft",
+      "Pos": "BottomLeft",
       "Persist": true,
       "FadeTime": 5,
       "Width": 200,
